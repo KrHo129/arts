@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="TouchBG.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92172518"
+     inkscape:cx="277.62897"
+     inkscape:cy="230.99761"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Swipe5.png"
+       y="198.45906"
+       x="1.989845"
+       height="95.25"
+       width="169.33333"
+       id="rect860"
+       style="fill:#5b5b5b;fill-opacity:0.00392157;stroke-width:0.26458332" />
+    <rect
+       style="fill:#5b5b5b;stroke-width:0.26458332;fill-opacity:0.00392157"
+       id="rect42"
+       width="169.33333"
+       height="95.25"
+       x="-6.0476193"
+       y="60.386906"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Touch5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#afbc84;fill-opacity:0.85490196;stroke-width:0.2725625"
+       id="rect44"
+       width="56.444435"
+       height="78.619049"
+       x="50.396812"
+       y="77.017853"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Touch5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       y="77.017853"
+       x="-6.0476227"
+       height="78.619049"
+       width="56.444435"
+       id="rect46"
+       style="fill:#9f9f9f;stroke-width:0.2725625;fill-opacity:0.85490197"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Touch5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#9f9f9f;stroke-width:0.2725625;fill-opacity:0.85490197"
+       id="rect48"
+       width="56.444435"
+       height="78.619049"
+       x="106.84125"
+       y="77.017853"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Touch5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Swipe5.png"
+       y="215.09001"
+       x="1.989845"
+       height="78.619049"
+       width="169.33333"
+       id="rect858"
+       style="fill:#9f9f9f;fill-opacity:0.85490196;stroke-width:0.47209215" />
+  </g>
+</svg>

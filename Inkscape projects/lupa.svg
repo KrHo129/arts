@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="lupa.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient891"
+       inkscape:collect="always">
+      <stop
+         id="stop883"
+         offset="0"
+         style="stop-color:#464646;stop-opacity:1" />
+      <stop
+         id="stop889"
+         offset="1"
+         style="stop-color:#929292;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient847">
+      <stop
+         style="stop-color:#282828;stop-opacity:1"
+         offset="0"
+         id="stop843" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1"
+         offset="1"
+         id="stop845" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient835">
+      <stop
+         style="stop-color:#ededed;stop-opacity:1"
+         offset="0"
+         id="stop831" />
+      <stop
+         id="stop895"
+         offset="0.20275944"
+         style="stop-color:#dde9ec;stop-opacity:1" />
+      <stop
+         style="stop-color:#bdc9ca;stop-opacity:1;"
+         offset="0.64910638"
+         id="stop899" />
+      <stop
+         style="stop-color:#b9c3c3;stop-opacity:1"
+         offset="1"
+         id="stop833" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient835"
+       id="radialGradient837"
+       cx="14.742103"
+       cy="44.329628"
+       fx="14.742103"
+       fy="44.329628"
+       r="35.908691"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.23339872,0.93359483,-0.84504845,0.2112623,-85.290183,-80.295543)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient847"
+       id="linearGradient849"
+       x1="-25.592899"
+       y1="132.25664"
+       x2="-17.842266"
+       y2="132.20323"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-31.426437,-182.80311)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient891"
+       id="linearGradient881"
+       x1="51.782738"
+       y1="85.664062"
+       x2="59.247768"
+       y2="93.696053"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(1.2257729,5152.72,-6827.0768)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient891"
+       id="linearGradient879"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(1.2257729,-643.53247,2769.5498)"
+       x1="51.782738"
+       y1="85.664062"
+       x2="59.247768"
+       y2="93.696053" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient835"
+       id="radialGradient881"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.23339872,0.93359483,-0.84504845,0.2112623,118.67581,45.894778)"
+       cx="14.742103"
+       cy="44.329628"
+       fx="14.742103"
+       fy="44.329628"
+       r="35.908691" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient847"
+       id="linearGradient885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99999953,0,0,0.6664603,36.346749,97.114301)"
+       x1="-25.592899"
+       y1="132.25664"
+       x2="-17.842266"
+       y2="132.20323" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="526.0123"
+     inkscape:cy="640.89546"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.97315061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect887"
+       width="103.00955"
+       height="110.13371"
+       x="55.578636"
+       y="46.154125"
+       inkscape:export-filename="C:\Users\Blaž\Desktop\lupa2.png"
+       inkscape:export-xdpi="104.402"
+       inkscape:export-ydpi="104.402" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient885);fill-opacity:1;stroke:none;stroke-width:1.61698413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect883"
+       width="10.11021"
+       height="54.746719"
+       x="9.8258181"
+       y="160.54083"
+       transform="matrix(0.75149379,-0.65974017,0.65891277,0.75221936,0,0)"
+       inkscape:export-filename="C:\Users\Blaž\Desktop\lupa.png"
+       inkscape:export-xdpi="104.402"
+       inkscape:export-ydpi="104.402" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient849);fill-opacity:1;stroke:none;stroke-width:1.98070014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect819"
+       width="10.110215"
+       height="82.145508"
+       x="-57.947392"
+       y="-87.633682"
+       transform="rotate(-43.208059)"
+       inkscape:export-filename="C:\Users\Blaž\Desktop\lupa.png"
+       inkscape:export-xdpi="104.402"
+       inkscape:export-ydpi="104.402" />
+    <path
+       style="fill:url(#linearGradient881);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -104.69657,-20.529024 c 0,0 3.21696,4.89774 5.628623,6.39652 2.635114,1.637656 8.711329,2.192153 8.711329,2.192153 l 7.220726,-6.219803 c 0,0 0.550154,-6.21308 -0.441673,-8.97204 -0.991831,-2.758955 -4.842499,-6.741176 -4.842499,-6.741176 z"
+       id="path867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscczcc"
+       inkscape:export-filename="C:\Users\Blaž\Desktop\lupa.png"
+       inkscape:export-xdpi="104.402"
+       inkscape:export-ydpi="104.402" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient837);fill-opacity:1;stroke:#464646;stroke-width:4.3552804;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path815"
+       cx="-114.30473"
+       cy="-47.156521"
+       r="29.100843"
+       inkscape:export-filename="C:\Users\Blaž\Desktop\lupa.png"
+       inkscape:export-xdpi="104.402"
+       inkscape:export-ydpi="104.402" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#464646;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect853"
+       width="21.047476"
+       height="15.501633"
+       x="-116.35384"
+       y="94.68354" />
+    <rect
+       y="106.8079"
+       x="-116.58573"
+       height="3.609165"
+       width="5.8759899"
+       id="rect857"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#464646;stroke-width:0.25495008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#464646;stroke-width:0.25495008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect859"
+       width="5.8759899"
+       height="3.609165"
+       x="-116.58573"
+       y="106.8079" />
+    <rect
+       y="106.57601"
+       x="-101.18236"
+       height="3.609165"
+       width="5.8759899"
+       id="rect861"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#464646;stroke-width:0.25495008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="103.19874"
+       x="-116.58573"
+       height="3.609165"
+       width="5.8759899"
+       id="rect863"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#464646;stroke-width:0.25495008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#464646;stroke-width:0.25495008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect865"
+       width="5.8759899"
+       height="3.609165"
+       x="-101.18236"
+       y="102.96685" />
+    <path
+       inkscape:export-ydpi="104.402"
+       inkscape:export-xdpi="104.402"
+       inkscape:export-filename="C:\Users\Blaž\Desktop\lupa.png"
+       sodipodi:nodetypes="cscczcc"
+       inkscape:connector-curvature="0"
+       id="path873"
+       d="m 99.269416,105.6613 c 0,0 3.216964,4.89774 5.628624,6.39652 2.63512,1.63766 8.71133,2.19215 8.71133,2.19215 l 7.22073,-6.2198 c 0,0 0.55015,-6.21308 -0.44168,-8.972042 -0.99183,-2.75895 -4.8425,-6.74117 -4.8425,-6.74117 z"
+       style="fill:url(#linearGradient879);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="104.402"
+       inkscape:export-xdpi="104.402"
+       inkscape:export-filename="C:\Users\Blaž\Desktop\lupa.png"
+       r="29.100843"
+       cy="79.033806"
+       cx="89.661255"
+       id="circle875"
+       style="opacity:1;fill:url(#radialGradient881);fill-opacity:1;stroke:#464646;stroke-width:4.3552804;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

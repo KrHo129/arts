@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="ImgCamera.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient60"
+       inkscape:collect="always">
+      <stop
+         id="stop56"
+         offset="0"
+         style="stop-color:#cccccc;stop-opacity:1" />
+      <stop
+         id="stop58"
+         offset="1"
+         style="stop-color:#999999;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient54"
+       inkscape:collect="always">
+      <stop
+         id="stop50"
+         offset="0"
+         style="stop-color:#cccccc;stop-opacity:1" />
+      <stop
+         id="stop52"
+         offset="1"
+         style="stop-color:#999999;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient48"
+       inkscape:collect="always">
+      <stop
+         id="stop44"
+         offset="0"
+         style="stop-color:#cccccc;stop-opacity:1" />
+      <stop
+         id="stop46"
+         offset="1"
+         style="stop-color:#999999;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient34">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="0"
+         id="stop30" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1"
+         offset="1"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient34"
+       id="linearGradient36"
+       x1="-211.67746"
+       y1="309.82895"
+       x2="-86.060791"
+       y2="411.39136"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60"
+       id="linearGradient38"
+       x1="-211.67746"
+       y1="309.82895"
+       x2="-86.060791"
+       y2="411.39136"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54"
+       id="linearGradient40"
+       x1="-211.67746"
+       y1="309.82895"
+       x2="-86.060791"
+       y2="411.39136"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient48"
+       id="linearGradient42"
+       x1="-211.67746"
+       y1="309.82895"
+       x2="-86.060791"
+       y2="411.39136"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-539.46078"
+     inkscape:cy="-269.0502"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient42);stroke-width:0.26415488;fill-opacity:1"
+       id="rect12"
+       width="119.80007"
+       height="73.886307"
+       x="-241.53912"
+       y="348.77469"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\CameraGreyShadedSprite2.png"
+       inkscape:export-xdpi="74.716827"
+       inkscape:export-ydpi="74.716827" />
+    <rect
+       style="fill:#000080;stroke-width:0.28901193"
+       id="rect14"
+       width="94.078873"
+       height="112.2532"
+       x="276.51154"
+       y="-187.26472" />
+    <rect
+       style="fill:#00ff00;stroke-width:0.59531248"
+       id="rect18"
+       width="28.865108"
+       height="28.865108"
+       x="276.51154"
+       y="-145.57068" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -66.128016,19.067345 -65.213764,41.69404 h -28.86512 v 28.86511 h 28.86512 l 65.213764,41.694045 z"
+       id="path20"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -175.17399,105.66267 -94.07886,41.69404 v 28.86511 l 94.07886,41.69406 z"
+       id="path22"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#linearGradient40);stroke:#000000;stroke-width:0.20377414px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -67.687207,342.53583 -50.278063,32.07805 v 22.20787 l 50.278063,32.07805 z"
+       id="path24"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\CameraGreyShadedSprite2.png"
+       inkscape:export-xdpi="74.716827"
+       inkscape:export-ydpi="74.716827" />
+    <ellipse
+       style="fill:url(#linearGradient38);stroke-width:0.2191052;fill-opacity:1"
+       id="path26"
+       cx="-150.32037"
+       cy="314.71997"
+       rx="28.58131"
+       ry="28.52178"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\CameraGreyShadedSprite2.png"
+       inkscape:export-xdpi="74.716827"
+       inkscape:export-ydpi="74.716827" />
+    <ellipse
+       cy="319.58417"
+       cx="-217.83215"
+       id="circle28"
+       style="fill:url(#linearGradient36);stroke-width:0.18173844;fill-opacity:1"
+       rx="23.706976"
+       ry="23.657597"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\CameraGreyShadedSprite2.png"
+       inkscape:export-xdpi="74.716827"
+       inkscape:export-ydpi="74.716827" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.95800018px;line-height:1.25;font-family:'Stardos Stencil';-inkscape-font-specification:'Stardos Stencil';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44248956"
+       x="-228.80571"
+       y="415.27475"
+       id="text64"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         x="-228.80571"
+         y="415.27475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.95800018px;font-family:'Stardos Stencil';-inkscape-font-specification:'Stardos Stencil';stroke-width:0.44248956">Ad</tspan></text>
+  </g>
+</svg>

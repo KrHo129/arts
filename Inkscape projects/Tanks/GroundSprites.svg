@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg903"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="GroundSprites.svg">
+  <defs
+     id="defs897" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="-1568.0366"
+     inkscape:cy="-988.93008"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1272"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata900">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.98999999;fill:#006200;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1450"
+       width="267.60715"
+       height="267.60715"
+       x="-756.35016"
+       y="-3.1130948"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-ydpi="0.75932205" />
+    <rect
+       y="-3.1130929"
+       x="-488.74301"
+       height="267.60715"
+       width="267.60715"
+       id="rect1452"
+       style="opacity:0.98999999;fill:#004700;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-ydpi="0.75932205" />
+    <rect
+       y="264.49405"
+       x="-756.35016"
+       height="267.60715"
+       width="267.60715"
+       id="rect1456"
+       style="opacity:0.98999999;fill:#502d16;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-ydpi="0.75932205" />
+    <rect
+       inkscape:export-ydpi="0.75932205"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       y="-3.1130929"
+       x="-221.13586"
+       height="267.60715"
+       width="267.60715"
+       id="rect845"
+       style="opacity:0.98999999;fill:#203c00;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="0.75932205"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       style="opacity:0.98999999;fill:#373600;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect847"
+       width="267.60715"
+       height="267.60715"
+       x="46.471283"
+       y="-3.1130929" />
+    <rect
+       inkscape:export-ydpi="0.75932205"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       style="opacity:0.98999999;fill:#382010;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect869"
+       width="267.60715"
+       height="267.60715"
+       x="-488.74301"
+       y="264.49405" />
+    <rect
+       y="264.49405"
+       x="-221.13586"
+       height="267.60715"
+       width="267.60715"
+       id="rect871"
+       style="opacity:0.98999999;fill:#2c1e14;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-ydpi="0.75932205" />
+    <rect
+       y="264.49402"
+       x="46.471283"
+       height="267.60715"
+       width="267.60715"
+       id="rect875"
+       style="opacity:0.98999999;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks2\Imports\TestStuff\Sprites\Tile_Small.png"
+       inkscape:export-xdpi="0.75932205"
+       inkscape:export-ydpi="0.75932205" />
+  </g>
+</svg>

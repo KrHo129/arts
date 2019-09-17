@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="DamageBlue.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4533">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0.02352941"
+         offset="0"
+         id="stop4529" />
+      <stop
+         id="stop4492"
+         offset="0.45444554"
+         style="stop-color:#0000fc;stop-opacity:0.26274511" />
+      <stop
+         style="stop-color:#0000fb;stop-opacity:0.80784315"
+         offset="0.88496184"
+         id="stop4567" />
+      <stop
+         style="stop-color:#000054;stop-opacity:0.89411765"
+         offset="1"
+         id="stop4531" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4533"
+       id="radialGradient4535"
+       cx="105.13229"
+       cy="148.63229"
+       fx="105.13229"
+       fy="148.63229"
+       r="132.29167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2170498,-1.2196733,1.2125646,-1.2099589,86.9152,418.18481)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="539.41855"
+     inkscape:cy="599.04477"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.7;fill:url(#radialGradient4535);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33098221;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4485"
+       width="344.71429"
+       height="344.71429"
+       x="-33.339279"
+       y="-62.410721"
+       inkscape:export-xdpi="37.726318"
+       inkscape:export-ydpi="37.726318"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\DamageImageBlue3.png" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00682362;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4505"
+       width="0.26458332"
+       height="0.26458332"
+       x="104.86771"
+       y="148.36771"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\DamageImageBlue.png"
+       inkscape:export-xdpi="75"
+       inkscape:export-ydpi="75" />
+  </g>
+</svg>

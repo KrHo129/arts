@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\Blaz\Desktop\ButtonImg2.png"
+   inkscape:export-xdpi="129"
+   inkscape:export-ydpi="129"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Button.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect22"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect20"
+       effect="bspline" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4503">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4499" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="1"
+         id="stop4501" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4497"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4503"
+       id="linearGradient4505"
+       x1="110.11504"
+       y1="136.90555"
+       x2="110.11504"
+       y2="163.63251"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67483001,0,0,0.3062057,11.3218,83.400831)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="8.5451385"
+     inkscape:cy="573.71368"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="130.67255"
+       inkscape:export-xdpi="130.67255"
+       inkscape:original-d="m 38.162109,126.20501 c 1.78e-4,-1.34482 1.78e-4,-2.68956 0,-4.03422 2.903485,-0.0385 5.927383,-8e-5 8.890807,0 26.550249,-8e-5 53.103514,-8e-5 79.655014,0 2.96376,-8e-5 5.92738,-8e-5 8.8908,0 -0.17627,1.27087 1.8e-4,2.68941 1e-5,4.03423 0.0642,2.08143 1.7e-4,4.18866 0,6.28312 -0.1763,1.32369 1.7e-4,2.6894 -1e-5,4.03422 -2.88188,-0.0484 -5.92702,-8e-5 -8.8908,0 -26.5531,-8e-5 -53.103166,-8e-5 -79.655014,0 -2.963443,-8e-5 -5.927026,-8e-5 -8.890807,0 1.78e-4,-1.3449 1.78e-4,-2.68956 0,-4.03422 1.78e-4,-2.09433 1.78e-4,-4.18883 0,-6.28313 z"
+       inkscape:path-effect="#path-effect20"
+       inkscape:connector-curvature="0"
+       id="path18"
+       d="m 38.162109,126.57975 c 0,-1.71956 0,-3.0643 1.451743,-3.73663 1.451742,-0.67233 4.47564,-0.67233 19.232476,-0.67233 14.756837,0 41.310102,0 56.067732,0 14.75763,0 17.72125,0 19.20296,0.63543 1.48171,0.63544 1.48172,2.05398 1.48172,3.76711 0,1.71312 0,3.82035 0,5.52943 0,1.70907 -1e-5,3.07478 -1.44095,3.74719 -1.44094,0.67241 -4.48608,0.67241 -19.24452,0.67241 -14.75844,0 -41.308506,0 -56.066151,0 -14.757646,0 -17.721229,0 -19.203119,-0.67245 -1.481891,-0.67245 -1.481891,-2.01711 -1.481891,-3.73661 0,-1.71949 0,-3.81399 0,-5.53355 z"
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\BtnImgShadeed.png" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4485"
+       width="144.3869"
+       height="46.869045"
+       x="65.669624"
+       y="-84.551865" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4487"
+       width="13.174883"
+       height="13.174883"
+       x="65.669624"
+       y="-84.551872" />
+    <rect
+       y="-50.8577"
+       x="65.669624"
+       height="13.174883"
+       width="13.174883"
+       id="rect4489"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4491"
+       width="13.174883"
+       height="13.174883"
+       x="196.88165"
+       y="-50.8577" />
+    <rect
+       y="-84.551865"
+       x="196.88165"
+       height="13.174883"
+       width="13.174883"
+       id="rect4493"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       style="fill:url(#linearGradient4505);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36.574608,124.99224 c 0,-1.71956 0,-3.0643 1.451742,-3.73663 1.451743,-0.67233 4.475641,-0.67233 19.232477,-0.67233 14.756837,0 41.310105,0 56.067733,0 14.75762,0 17.72124,0 19.20295,0.63543 1.48171,0.63544 1.48172,2.05398 1.48172,3.76711 0,1.71312 0,3.82035 0,5.52943 0,1.70907 -1e-5,3.07478 -1.44095,3.74719 -1.44094,0.67241 -4.48608,0.67241 -19.24452,0.67241 -14.758434,0 -41.308497,0 -56.066142,0 -14.757646,0 -17.721229,0 -19.203119,-0.67245 -1.481891,-0.67245 -1.481891,-2.01711 -1.481891,-3.7366 0,-1.7195 0,-3.814 0,-5.53356 z"
+       id="path4495"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect4497"
+       inkscape:original-d="m 36.574608,124.6175 c 1.78e-4,-1.34482 1.78e-4,-2.68956 0,-4.03422 2.903485,-0.0385 5.927383,-8e-5 8.890807,0 26.550249,-8e-5 53.103517,-8e-5 79.655005,0 2.96376,-8e-5 5.92738,-8e-5 8.8908,0 -0.17627,1.27087 1.8e-4,2.68941 1e-5,4.03423 0.0642,2.08143 1.7e-4,4.18866 0,6.28312 -0.1763,1.32369 1.7e-4,2.6894 -1e-5,4.03422 -2.88188,-0.0484 -5.92702,-8e-5 -8.8908,0 -26.553094,-8e-5 -53.103157,-8e-5 -79.655005,0 -2.963443,-8e-5 -5.927026,-8e-5 -8.890807,0 1.78e-4,-1.3449 1.78e-4,-2.68956 0,-4.03422 1.78e-4,-2.09433 1.78e-4,-4.18883 0,-6.28313 z"
+       inkscape:export-xdpi="130.67255"
+       inkscape:export-ydpi="130.67255"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\BtnImgShadeed.png" />
+    <path
+       inkscape:export-filename="C:\Users\Blaz\Desktop\BtnShade.png"
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.6843398,169.34287 c 0,-1.71956 0,-3.0643 1.4517425,-3.73663 1.4517425,-0.67233 4.4756405,-0.67233 19.2324767,-0.67233 14.756837,0 41.310102,0 56.067732,0 14.75763,0 17.72125,0 19.202961,0.63543 1.481708,0.63544 1.481718,2.05398 1.481718,3.76711 0,1.71312 0,3.82035 0,5.52943 0,1.70907 -1e-5,3.07478 -1.440948,3.74719 -1.440941,0.67241 -4.486081,0.67241 -19.244521,0.67241 -14.75844,0 -41.308506,0 -56.066152,0 -14.7576452,0 -17.7212282,0 -19.2031187,-0.67245 -1.4818905,-0.67245 -1.4818905,-2.01711 -1.4818905,-3.73661 0,-1.71949 0,-3.81399 0,-5.53355 z"
+       id="path20"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect22"
+       inkscape:original-d="m 3.6843398,168.96813 c 1.78e-4,-1.34482 1.78e-4,-2.68956 0,-4.03422 2.903485,-0.0385 5.927383,-8e-5 8.8908072,0 26.550249,-8e-5 53.103514,-8e-5 79.655014,0 2.96376,-8e-5 5.92738,-8e-5 8.890799,0 -0.17627,1.27087 1.8e-4,2.68941 1e-5,4.03423 0.0642,2.08143 1.7e-4,4.18866 0,6.28312 -0.1763,1.32369 1.7e-4,2.6894 -1e-5,4.03422 -2.881879,-0.0484 -5.927019,-8e-5 -8.890799,0 -26.5531,-8e-5 -53.103166,-8e-5 -79.655014,0 -2.9634432,-8e-5 -5.9270262,-8e-5 -8.8908072,0 1.78e-4,-1.3449 1.78e-4,-2.68956 0,-4.03422 1.78e-4,-2.09433 1.78e-4,-4.18883 0,-6.28313 z"
+       inkscape:export-xdpi="130.67255"
+       inkscape:export-ydpi="130.67255" />
+  </g>
+</svg>

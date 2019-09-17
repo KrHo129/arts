@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="TankBody.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect915"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect897"
+       effect="bspline" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect893"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect889"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect883"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect879"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect845"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect841"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect837"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="2989.7958"
+     inkscape:cy="272.00396"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1272"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.98999999;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect891"
+       width="106.96725"
+       height="13.229166"
+       x="429.00299"
+       y="32.038689"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\Sprites\Tanks\path839.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.98999999;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2.70169878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="250.22023"
+       height="141.36308"
+       x="-9.8273916"
+       y="61.898804" />
+    <rect
+       style="opacity:0.98999999;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.6002804;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect817"
+       width="128.5119"
+       height="35.529762"
+       x="50.648808"
+       y="83.821426" />
+    <rect
+       y="119.35119"
+       x="7.5595174"
+       height="68.791664"
+       width="214.69048"
+       id="rect819"
+       style="opacity:0.98999999;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.87807822;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="73.238091"
+       x="95.703575"
+       height="10.583334"
+       width="25.702377"
+       id="rect821"
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.39059454;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.33669925;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect823"
+       width="30.616077"
+       height="26.458328"
+       x="7.5595169"
+       y="161.68452" />
+    <rect
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825"
+       width="15.119055"
+       height="13.229169"
+       x="7.5595174"
+       y="119.35119" />
+    <rect
+       y="119.35119"
+       x="207.13095"
+       height="13.229169"
+       width="15.119055"
+       id="rect827"
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="161.68452"
+       x="176.1369"
+       height="26.458328"
+       width="46.113102"
+       id="rect829"
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.64048052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="111.41368"
+       x="45.35714"
+       height="13.229169"
+       width="15.119055"
+       id="rect831"
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect833"
+       width="15.119055"
+       height="13.229169"
+       x="169.33333"
+       y="111.41368" />
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.586693,5.9332522 C 24.764937,2.6706821 14.557725,-3.8568906 9.4550039,-11.089 4.3522826,-18.32111 4.3522827,-26.258595 6.8721958,-32.432137 9.392109,-38.605679 14.431936,-43.015523 20.73132,-45.220259 c 6.299384,-2.204736 13.859326,-2.204736 25.562135,-2.204736 11.702809,0 28.364571,0 34.744275,-0.9721 6.379705,-0.9721 2.887725,-2.916618 -1.794755,-3.867228 -4.68248,-0.95061 -10.55428,-0.907124 -16.053013,-5.856546 -5.498733,-4.949421 -10.62347,-14.891478 -5.676484,-19.862684 4.946986,-4.971207 19.964871,-4.971207 27.473867,-6.735197 7.508995,-1.763991 7.508995,-5.291831 11.150023,-7.055588 3.641028,-1.763758 13.494162,-1.763758 17.777762,-5.5e-5 4.28359,1.763704 4.28359,5.291589 11.26421,7.055611 6.98061,1.764022 21.78249,1.764022 29.16947,5.256245 7.38699,3.492222 9.25731,11.374301 5.14475,15.967322 -4.11256,4.593021 -14.10056,6.344793 -19.14065,8.612654 -5.04008,2.267861 -5.13046,5.051621 6.28922,6.380586 11.41968,1.328964 34.35128,1.202969 48.52536,1.139974 14.17408,-0.06299 18.83586,-0.06299 21.47392,2.757595 2.63806,2.82059 2.93589,9.918543 -4.74949,19.35537 -7.68537,9.436827 -23.32259,21.9398734 -33.148,28.1923602 -9.8254,6.2524868 -13.83621,6.2524661 -36.11001,6.2524614 -22.2738,-4.7e-6 -62.801724,6.5e-6 -83.79355,1.69e-5 -20.991826,1.03e-5 -22.431912,1.98e-5 -28.253667,-3.2625503 z"
+       id="path835"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect837"
+       inkscape:original-d="M 34.96836,9.1958317 C 24.765134,2.6703741 14.557922,-3.8571982 4.3522824,-10.383332 c 2.648e-4,-7.937778 2.649e-4,-15.875263 5e-7,-23.812503 5.0398118,-4.40986 10.0796341,-8.81971 15.1190541,-13.22916 7.559367,-2.7e-4 15.119309,-2.7e-4 22.678568,0 15.846359,-2.65e-4 32.508121,-2.65e-4 48.758937,0 -3.491232,-1.944514 -6.983212,-3.889033 -10.475714,-5.83343 -5.872635,0.04323 -11.744435,0.08672 -17.617019,0.130469 -5.124563,-9.942497 -10.2493,-19.884554 -15.374537,-29.826804 15.018892,-2.65e-4 30.036777,-2.65e-4 45.054768,0 2.65e-4,-3.527981 2.65e-4,-7.055821 0,-10.583336 7.282056,-2.62e-4 17.13519,-2.64e-4 25.70238,0 2.6e-4,3.527407 2.6e-4,7.055292 0,10.583336 13.96123,-2.65e-4 28.76311,-2.65e-4 41.87975,0 1.65764,6.984371 3.52796,14.866451 5.29167,22.300595 -9.98918,1.75176 -19.97718,3.503532 -29.96693,5.255827 -0.0901,2.783647 -0.1805,5.567407 -0.27115,8.351313 22.92975,-0.126249 45.86135,-0.252244 68.79166,-0.37797 5.41785,-0.25225 10.07963,-2.7e-4 15.11905,0 0.23698,5.641167 0.5348,12.739121 0.80181,19.10909 -15.63806,12.503663 -31.27528,25.006709 -46.91491,37.5117367 -4.01115,-2.853e-4 -8.02196,-3.06e-4 -12.03341,-6.21e-5 -40.53615,-2.533e-4 -81.064074,-2.421e-4 -121.60764,3.38e-5 -1.440086,-2.552e-4 -2.880172,-2.457e-4 -4.32026,2.83e-5 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <rect
+       style="opacity:0.98999999;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.19605827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect847"
+       width="111.125"
+       height="38.931545"
+       x="292.1756"
+       y="-55.651779" />
+    <rect
+       style="opacity:0.98999999;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect849"
+       width="82.776787"
+       height="38.931545"
+       x="403.3006"
+       y="-55.651779" />
+    <rect
+       style="opacity:0.98999999;fill:#d35f5f;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect851"
+       width="51.404762"
+       height="15.875004"
+       x="358.60764"
+       y="-102.8988" />
+    <rect
+       style="opacity:0.98999999;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:2.48900366;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect853"
+       width="116.88643"
+       height="31.372026"
+       x="295.1076"
+       y="-87.023804" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.33843088px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410.01239,-87.023801 76.065,31.372023 h -76.065 z"
+       id="path855"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863"
+       width="12.095243"
+       height="12.095243"
+       x="292.1756"
+       y="-28.815477" />
+    <rect
+       y="-87.023804"
+       x="295.1076"
+       height="12.095243"
+       width="12.095243"
+       id="rect865"
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.70312536;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect867"
+       width="5.6696482"
+       height="5.6696482"
+       x="358.60764"
+       y="-102.8988" />
+    <rect
+       y="-102.8988"
+       x="404.34274"
+       height="5.6696482"
+       width="5.6696482"
+       id="rect869"
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.70312536;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.70312536;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect871"
+       width="5.6696482"
+       height="5.6696482"
+       x="358.60764"
+       y="-92.693451" />
+    <rect
+       y="-92.693451"
+       x="404.34274"
+       height="5.6696482"
+       width="5.6696482"
+       id="rect873"
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.70312536;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect875"
+       width="12.095243"
+       height="12.095243"
+       x="473.98215"
+       y="-28.815479" />
+    <rect
+       y="-55.651779"
+       x="473.98215"
+       height="12.095243"
+       width="12.095243"
+       id="rect885"
+       style="opacity:0.98999999;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#ececec;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 368.97354,116.57915 c -30.3011,0 -34.33285,0 -36.34886,-2.54839 -2.016,-2.5484 -2.016,-5.51537 -2.016,-11.89404 0,-6.378668 0,-15.543944 0.6154,-20.016529 0.61541,-4.472584 1.33955,-4.472584 1.82808,-7.524944 0.48852,-3.05236 0.48852,-9.799092 0.48852,-14.901135 0,-5.102042 0,-9.387046 2.0866,-11.402787 2.0866,-2.015741 5.97716,-2.015741 16.55994,-2.015741 10.58278,0 27.71884,0 36.28617,-0.94506 8.56732,-0.94506 8.56732,-2.834971 8.56732,-4.535758 0,-1.700786 0,-3.212899 0,-4.913626 0,-1.700727 0,-3.590935 0.9468,-4.535745 0.9468,-0.94481 2.83325,-0.94481 10.45483,-0.94481 7.62157,0 20.97861,0 28.60111,0 7.6225,0 9.51242,0 10.45722,0.76762 0.9448,0.76762 0.9448,3.011878 0.9448,4.712876 0,1.700998 0,3.212687 0,4.817554 0,1.604868 0,3.6868 0.33045,4.631874 0.33045,0.945075 0.9909,0.945075 13.68868,6.182389 12.69777,5.237313 37.35154,15.677422 49.69871,22.921797 12.34717,7.244374 12.34717,11.276145 12.34717,16.018631 0,4.742486 0,9.116626 0,13.179494 0,4.06287 0,8.91431 -2.07931,10.93032 -2.07931,2.01601 -5.98392,2.01601 -36.28687,2.01601 -30.30296,0 -86.86966,0 -117.17076,0 z"
+       id="path887"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect889"
+       inkscape:original-d="m 342.70392,116.57915 c -4.03148,-2.7e-4 -8.06323,-2.7e-4 -12.09524,0 0.16179,-5.09679 0,-8.06376 0,-12.09524 -0.10549,-8.725858 0,-17.891134 0,-26.836303 1.23081,-0.04826 1.95495,-2.64e-4 2.932,0 0.25345,-6.10472 0,-12.851452 0,-19.276779 -0.90461,-3.778758 0,-8.063762 0,-12.095244 4.1732,0.252817 8.06376,-2.65e-4 12.09525,0 17.13407,-2.65e-4 34.27013,-2.65e-4 51.40478,0 2.6e-4,-1.89012 2.6e-4,-3.780031 0,-5.669648 2.6e-4,-1.511956 2.6e-4,-3.024069 0,-4.535707 2.6e-4,-1.889816 2.6e-4,-3.780024 0,-5.669644 1.8936,0.28816 3.78005,-2.7e-4 5.66965,0 13.35355,-2.7e-4 26.71059,-2.7e-4 40.06546,0 1.89013,-2.7e-4 3.78005,-2.7e-4 5.66965,0 -0.0958,1.53524 2.6e-4,3.779498 0,5.669644 2.6e-4,1.51185 2.6e-4,3.023539 0,4.535707 0.1715,1.697567 2.6e-4,3.779499 0,5.669648 0.6609,-2.65e-4 1.32135,-2.65e-4 1.98162,0 24.80252,10.315852 49.38919,20.914417 74.08339,31.372023 2.6e-4,4.031462 2.6e-4,8.063233 0,12.095245 0.11797,5.45296 2.6e-4,9.8271 0,14.741048 -0.0602,3.21179 2.6e-4,8.06323 0,12.09525 -4.15862,-0.19652 -8.06323,-2.7e-4 -12.09525,0 -56.57389,-2.7e-4 -113.14059,-2.7e-4 -169.71131,0 z"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\Sprites\Tanks\path839.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ececec;stroke:#000000;stroke-width:0.30835068px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 335.91597,130.41974 c -8.91217,-4.9166 -23.06811,-14.7515 -27.2087,-22.23828 -4.14058,-7.48678 1.7328,-12.625985 9.00082,-15.195428 7.26802,-2.569443 16.22534,-2.569443 48.72007,-2.569443 32.49473,0 89.90234,0 123.49339,0 33.59104,0 41.95828,0 50.45809,1.744363 8.49982,1.744364 15.84455,4.990376 9.64956,12.512128 -6.19499,7.52175 -26.06901,19.06434 -40.90214,24.8638 -14.83312,5.79947 -24.52712,5.79944 -49.83065,5.79943 -25.30353,-1e-5 -66.21522,0 -88.50614,1e-5 -22.29092,1e-5 -25.96212,3e-5 -34.8743,-4.91658 z"
+       id="path839"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect841"
+       inkscape:original-d="m 341.15734,135.33637 c -14.15333,-9.83354 -28.30927,-19.66843 -42.4643,-29.50225 5.87363,-5.13946 11.74701,-10.278671 17.62005,-15.417531 8.66302,-0.44079 17.62034,-3.2e-4 26.43005,0 56.17975,-2.7e-4 113.58736,-2.7e-4 171.81234,0 8.95711,-2.7e-4 17.32435,-2.7e-4 26.43006,0 7.89406,3.48841 15.23879,6.73442 22.91172,10.125861 -20.0631,11.6523 -39.93712,23.19489 -59.90813,34.79392 -9.69519,-2.9e-4 -19.38919,-3.1e-4 -29.08437,-7e-5 -40.91188,-2.6e-4 -81.82357,-2.6e-4 -122.73488,1e-5 -3.67053,-2.4e-4 -7.34173,-2.2e-4 -11.01254,6e-5 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\Sprites\Tanks\path839.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="33.136528"
+       inkscape:export-xdpi="33.136528"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\TestStuff\Sprites\Tank_Body_1.png"
+       inkscape:original-d="m 572.51344,245.06162 c -4.03148,-2.4e-4 -8.06323,-2.4e-4 -12.09524,0 0.16179,-4.69396 0,-7.42643 0,-11.13928 -0.10549,-8.03621 0,-16.4771 0,-24.71529 1.23081,-0.0445 1.95495,-2.4e-4 2.932,0 0.25345,-5.62223 0,-11.83574 0,-17.75323 -0.90461,-3.48011 0,-7.42645 0,-11.13931 4.1732,0.23284 8.06376,-2.3e-4 12.09525,0 17.13407,-2.3e-4 34.27013,-2.3e-4 51.40478,0 2.6e-4,-1.74073 2.6e-4,-3.48127 0,-5.22153 2.6e-4,-1.39247 2.6e-4,-2.78506 0,-4.17723 2.6e-4,-1.74046 2.6e-4,-3.48126 0,-5.22155 1.8936,0.26538 3.78005,-2.5e-4 5.66965,0 13.35355,-2.5e-4 26.71059,-2.5e-4 40.06546,0 1.89013,-2.5e-4 3.78005,-2.5e-4 5.66965,0 -0.0958,1.41391 2.6e-4,3.48079 0,5.22155 2.6e-4,1.39236 2.6e-4,2.78457 0,4.17723 0.1715,1.56339 2.6e-4,3.48078 0,5.22153 0.6609,-2.3e-4 1.32135,-2.3e-4 1.98162,0 24.80252,9.50055 49.38919,19.26145 74.08339,28.89254 2.6e-4,3.71283 2.6e-4,7.42595 0,11.13929 0.11797,5.02199 2.6e-4,9.05041 0,13.57599 -0.0602,2.95794 2.6e-4,7.42595 0,11.13929 -4.15862,-0.18098 -8.06323,-2.4e-4 -12.09525,0 -56.57389,-2.4e-4 -113.14059,-2.4e-4 -169.71131,0 z"
+       inkscape:path-effect="#path-effect893"
+       inkscape:connector-curvature="0"
+       id="path891"
+       d="m 598.78306,245.06162 c -30.3011,0 -34.33285,0 -36.34885,-2.34698 -2.01601,-2.34698 -2.01601,-5.07945 -2.01601,-10.95398 0,-5.87453 0,-14.31542 0.6154,-18.43452 0.61541,-4.11909 1.33955,-4.11909 1.82807,-6.93021 0.48853,-2.81111 0.48853,-9.02462 0.48853,-13.72342 0,-4.6988 0,-8.64514 2.0866,-10.50157 2.0866,-1.85643 5.97716,-1.85643 16.55994,-1.85643 10.58278,0 27.71884,0 36.28616,-0.87037 8.56733,-0.87036 8.56733,-2.6109 8.56733,-4.17726 0,-1.56637 0,-2.95896 0,-4.52528 0,-1.56631 0,-3.30711 0.9468,-4.17726 0.9468,-0.87014 2.83325,-0.87014 10.45482,-0.87014 7.62158,0 20.97862,0 28.60112,0 7.6225,0 9.51242,0 10.45722,0.70695 0.9448,0.70696 0.9448,2.77384 0.9448,4.3404 0,1.56656 0,2.95877 0,4.43679 0,1.47803 0,3.39542 0.33045,4.2658 0.33045,0.87037 0.9909,0.87037 13.69311,5.69548 12.70221,4.82511 37.34713,14.43664 49.69429,21.10845 12.34716,6.67181 12.34716,10.38493 12.34716,14.7526 0,4.36766 0,8.39608 0,12.13784 0,3.74176 0,8.20977 -2.07931,10.06644 -2.07931,1.85667 -5.98392,1.85667 -36.28687,1.85667 -30.30296,0 -86.86966,0 -117.17076,0 z"
+       style="fill:#ececec;stroke:#000000;stroke-width:0.25391242px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="33.136528"
+       inkscape:export-xdpi="33.136528"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\TestStuff\Sprites\Tank_Body_1.png"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:original-d="m 570.96686,262.33637 c -14.15333,-9.05635 -28.30927,-18.11393 -42.4643,-27.17054 5.87363,-4.73326 11.74701,-9.46629 17.62005,-14.199 8.66302,-0.40595 17.62034,-2.9e-4 26.43005,0 56.17975,-2.5e-4 113.58736,-2.5e-4 171.81234,0 8.95711,-2.5e-4 17.32435,-2.5e-4 26.43006,0 7.89406,3.2127 15.23879,6.20217 22.91172,9.32556 -20.0631,10.73135 -39.93712,21.36168 -59.90813,32.04398 -9.69519,-2.7e-4 -19.38919,-2.9e-4 -29.08437,-7e-5 -40.91188,-2.3e-4 -81.82357,-2.3e-4 -122.73488,1e-5 -3.67053,-2.2e-4 -7.34173,-2e-4 -11.01254,6e-5 z"
+       inkscape:path-effect="#path-effect897"
+       inkscape:connector-curvature="0"
+       id="path895"
+       d="m 565.7255,257.80833 c -8.91216,-4.52801 -23.06809,-13.5856 -27.20869,-20.48067 -4.1406,-6.89507 1.73278,-11.6281 9.0008,-13.99446 7.26802,-2.36637 16.22534,-2.36637 48.72007,-2.36637 32.49473,0 89.90234,0 123.49339,0 33.59104,0 41.95828,0 50.4581,1.6065 8.49983,1.6065 15.84456,4.59596 9.64956,11.52323 -6.19501,6.92726 -26.06903,17.55759 -40.90215,22.89869 -14.83312,5.3411 -24.52712,5.34107 -49.83065,5.34106 -25.30353,-1e-5 -66.21522,0 -88.50614,10e-6 -22.29092,10e-6 -25.96212,3e-5 -34.87429,-4.52799 z"
+       style="fill:#ececec;stroke:#000000;stroke-width:0.29591462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\Sprites\Tanks\path839.png"
+       y="-8.5287342"
+       x="712.34619"
+       height="13.229166"
+       width="106.96725"
+       id="rect899"
+       style="opacity:0.98999999;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.23787442;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect901"
+       width="33.371674"
+       height="38.390232"
+       x="712.29132"
+       y="-21.10927"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\Sprites\Tanks\path839.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\Sprites\Tanks\path839.png"
+       y="-13.260233"
+       x="745.67413"
+       height="22.692144"
+       width="42.042828"
+       id="rect903"
+       style="opacity:0.98999999;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.20527312;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.10800464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect905"
+       width="7.849"
+       height="7.849"
+       x="745.66296"
+       y="-21.10927" />
+    <rect
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.09673313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect907"
+       width="4.7309999"
+       height="4.7309999"
+       x="787.71698"
+       y="4.7009187" />
+    <rect
+       y="-13.260233"
+       x="787.71698"
+       height="4.7309999"
+       width="4.7309999"
+       id="rect909"
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.09673313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="9.4319668"
+       x="745.66296"
+       height="7.849"
+       width="7.849"
+       id="rect911"
+       style="opacity:0.98999999;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.10800464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.25552878px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 878.31868,169.91954 c 7.82607,0 23.47787,0 33.18847,0 9.71059,0 13.30375,0 15.14421,0.80357 1.84046,0.80358 1.84046,2.66499 9.65744,3.53226 7.81698,0.86728 24.26869,0.86728 33.39943,0.86729 9.13075,0 11.34973,0 12.45899,0.40886 1.10926,0.40886 1.10926,1.68175 7.41064,2.20459 6.30138,0.52285 18.89914,0.52296 31.49944,0.52308 0,0 0,8.7696 0,8.7696 -12.6003,1.2e-4 -25.20017,2.4e-4 -31.50049,3e-4 -6.30033,6e-5 -6.30033,3.13624 -7.40978,3.13624 -1.10945,0 -3.32799,0 -12.46011,10e-6 -9.13212,0 -25.17208,1e-5 -33.19359,0.91379 -8.02151,0.91378 -8.02151,2.55478 -9.86216,3.42205 -1.84065,0.86727 -5.52156,0.86727 -15.56921,0.86727 -10.04765,0 -24.93757,0 -40.58934,0 0,0 0,-25.44886 0,-25.44886 0,0 0,-5e-5 7.82606,-5e-5 z"
+       id="path913"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect915"
+       inkscape:original-d="m 870.49262,169.91954 c 15.65213,-1.7e-4 31.30393,-1.7e-4 46.95531,0 3.76981,0.0128 7.36297,-1.7e-4 11.04389,0 0.21395,1.60715 0,3.46856 0,5.2031 15.63396,0.0501 32.08567,-1.6e-4 48.12792,2e-5 2.21924,-1.8e-4 4.43822,-1.8e-4 6.65674,0 0.25393,0.81772 0,2.09061 0,3.13618 12.60276,-7e-5 37.80082,3.5e-4 37.80082,3.5e-4 v 8.7696 c 0,0 -25.20017,5e-5 -37.80082,3.6e-4 v 3.13618 c -2.2189,-1.9e-4 -4.43744,-1.9e-4 -6.65674,0 -16.04494,-1.8e-4 -32.0849,-1.6e-4 -48.12792,3e-5 -0.28748,1.82755 0,3.46855 0,5.20309 -3.6813,-1.8e-4 -7.36221,-1.8e-4 -11.04389,0 -16.41362,0.0342 -46.95531,0 -46.95531,0 v -25.44886 z"
+       sodipodi:nodetypes="cccccccccccccccccc"
+       inkscape:export-filename="D:\My Projects\_Unity Projects\Tanks\Imports\TestStuff\Sprites\Tank_cev_1.png"
+       inkscape:export-xdpi="26.942417"
+       inkscape:export-ydpi="26.942417" />
+  </g>
+</svg>

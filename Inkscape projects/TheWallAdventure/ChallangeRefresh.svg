@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="ChallangeRefresh.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4588">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4584" />
+      <stop
+         id="stop4594"
+         offset="0.23815915"
+         style="stop-color:#e9e9e9;stop-opacity:1;" />
+      <stop
+         id="stop4592"
+         offset="0.63423336"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1"
+         offset="1"
+         id="stop4586" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4572">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1"
+         offset="0"
+         id="stop4568" />
+      <stop
+         style="stop-color:#aa4400;stop-opacity:1"
+         offset="1"
+         id="stop4570" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4558">
+      <stop
+         style="stop-color:#00d400;stop-opacity:1"
+         offset="0"
+         id="stop4554" />
+      <stop
+         id="stop4562"
+         offset="0.76878291"
+         style="stop-color:#00aa00;stop-opacity:1" />
+      <stop
+         style="stop-color:#005500;stop-opacity:1"
+         offset="1"
+         id="stop4556" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4540"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4519"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4515"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4506"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4558"
+       id="linearGradient4560"
+       x1="-3.4727232"
+       y1="233.44867"
+       x2="205.65958"
+       y2="131.38617"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14187932,0.80463761,-0.80463761,0.14187932,204.71062,94.410751)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4572"
+       id="linearGradient4574"
+       x1="80.886909"
+       y1="131.44643"
+       x2="149.67857"
+       y2="222.16072"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.81705044,0,0,0.81705044,-10.182669,66.134091)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4588"
+       id="linearGradient4590"
+       x1="-18.898809"
+       y1="63.410713"
+       x2="243.41667"
+       y2="327.99405"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.81705044,0,0,0.81705044,-10.182669,66.134091)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-658.0221"
+     inkscape:cy="59.47794"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4590);fill-opacity:1;fill-rule:nonzero;stroke:#000004;stroke-width:4.08525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;"
+       id="rect4582"
+       width="268.06064"
+       height="268.06064"
+       x="-53.615715"
+       y="91.384842"
+       ry="18.529537"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\dsa.png"
+       inkscape:export-xdpi="95.572266"
+       inkscape:export-ydpi="95.572266" />
+    <text
+       id="text4578"
+       y="261.36679"
+       x="30.257017"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.96194458px;line-height:1.25;font-family:'Old English Text MT';-inkscape-font-specification:'Old English Text MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71855175;"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\dsa.png"
+       inkscape:export-xdpi="95.572266"
+       inkscape:export-ydpi="95.572266"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Old English Text MT';-inkscape-font-specification:'Old English Text MT';fill:#000000;fill-opacity:1;stroke-width:0.71855175"
+         y="261.36679"
+         x="30.257017"
+         id="tspan4576"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       id="text4566"
+       y="353.47861"
+       x="-24.938429"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.17652512px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26133606;"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\dsa.png"
+       inkscape:export-xdpi="95.572266"
+       inkscape:export-ydpi="95.572266"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:0.26133606"
+         y="353.47861"
+         x="-24.938429"
+         id="tspan4564"
+         sodipodi:role="line">Refresh</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 333.19937,-321.07261 a 109.04596,109.04596 0 0 0 -75.51528,31.92776 109.04596,109.04596 0 0 0 -31.72416,73.49474 h -0.16692 a 109.04596,109.04596 0 0 0 -0.11886,3.35949 109.04596,109.04596 0 0 0 109.04606,109.04605 109.04596,109.04596 0 0 0 77.51258,-32.41197 c 0.0343,-0.14562 0.0634,-0.29155 0.0909,-0.4377 a 109.04596,109.04596 0 0 0 31.16404,-76.2925 109.04596,109.04596 0 0 0 -29.37237,-74.22441 l 0.0744,-0.0744 a 109.04596,109.04596 0 0 0 -2.29134,-2.45929 109.04596,109.04596 0 0 0 -0.76532,-0.69194 109.04596,109.04596 0 0 0 -0.0574,-0.0625 c -0.005,-0.001 -0.01,-0.002 -0.0145,-0.003 a 109.04596,109.04596 0 0 0 -77.86191,-31.17019 z m 2.73782,30.52992 a 78.51309,78.51309 0 0 1 51.97822,20.75842 c 0.002,0.0274 0.003,0.0546 0.006,0.0822 a 78.51309,78.51309 0 0 1 25.03362,57.31537 78.51309,78.51309 0 0 1 -78.51356,78.51303 78.51309,78.51309 0 0 1 -3.35948,-0.16795 v 0.0827 a 78.51309,78.51309 0 0 1 -74.76423,-75.21661 c 0.0432,-0.0501 0.0876,-0.0987 0.12971,-0.15038 a 78.51309,78.51309 0 0 1 22.82651,-58.22952 78.51309,78.51309 0 0 1 56.66321,-22.98722 z"
+       id="path4528"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:url(#linearGradient4560);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.08525229;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;"
+       d="m -3.2973528,178.06623 a 89.096049,89.096049 0 0 0 -5.2378681,34.06026 c 1.2564386,1.11442 2.6957059,1.50617 5.2270985,1.53269 2.73939821,0.0288 6.7571155,-0.36831 9.994235,-0.85558 3.2371358,-0.48722 5.6941144,-1.06467 7.5382514,-2.40731 0.842851,-0.61369 1.556507,-1.3885 2.15638,-2.26555 a 64.149154,64.149154 0 0 1 3.764031,-21.53226 64.149154,64.149154 0 0 1 82.221095,-38.34005 64.149154,64.149154 0 0 1 2.47367,1.04282 L 93.98408,179.12641 150.84729,152.61067 124.33166,95.747018 113.3852,125.82217 a 89.096049,89.096049 0 0 0 -2.4869,-1.00623 89.096049,89.096049 0 0 0 -114.1956712,53.25031 z M 9.9818481,264.03408 36.497478,320.89765 47.44393,290.82254 a 89.096049,89.096049 0 0 0 2.48694,1.00623 89.096049,89.096049 0 0 0 114.19567,-53.25029 89.096049,89.096049 0 0 0 5.23788,-34.06027 c -1.25645,-1.11442 -2.69574,-1.50619 -5.22713,-1.53271 -2.73941,-0.0288 -6.75712,0.36832 -9.99423,0.85558 -3.23715,0.48722 -5.69412,1.06468 -7.53825,2.40731 -0.8429,0.61363 -1.55654,1.38853 -2.1564,2.26556 a 64.149154,64.149154 0 0 1 -3.76403,21.53227 64.149154,64.149154 0 0 1 -82.221149,38.34001 64.149154,64.149154 0 0 1 -2.473623,-1.04277 l 10.85547,-29.82518 z"
+       id="path4492"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\dsa.png"
+       inkscape:export-xdpi="95.572266"
+       inkscape:export-ydpi="95.572266" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.17652512px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#005500;fill-opacity:1;stroke:none;stroke-width:0.26133606;"
+       x="-29.119808"
+       y="349.29724"
+       id="text4548"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\dsa.png"
+       inkscape:export-xdpi="95.572266"
+       inkscape:export-ydpi="95.572266"><tspan
+         sodipodi:role="line"
+         id="tspan4546"
+         x="-29.119808"
+         y="349.29724"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#005500;stroke-width:0.26133606">Refresh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.96194458px;line-height:1.25;font-family:'Old English Text MT';-inkscape-font-specification:'Old English Text MT';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4574);fill-opacity:1;stroke:none;stroke-width:0.71855175;"
+       x="27.230526"
+       y="258.34027"
+       id="text4552"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\dsa.png"
+       inkscape:export-xdpi="95.572266"
+       inkscape:export-ydpi="95.572266"><tspan
+         sodipodi:role="line"
+         id="tspan4550"
+         x="27.230526"
+         y="258.34027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Old English Text MT';-inkscape-font-specification:'Old English Text MT';fill:url(#linearGradient4574);fill-opacity:1;stroke-width:0.71855175">C</tspan></text>
+  </g>
+</svg>

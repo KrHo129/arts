@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="PlayButton.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient885">
+      <stop
+         style="stop-color:#ececec;stop-opacity:1"
+         offset="0"
+         id="stop881" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1"
+         offset="1"
+         id="stop883" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4488">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4484" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="1"
+         id="stop4486" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="linearGradient4490"
+       x1="81.642853"
+       y1="27.125"
+       x2="115.66071"
+       y2="266.00595"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87215228,0,0,0.91127256,-377.40337,-169.76445)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="linearGradient22"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2727385,0,0,1.329827,-683.7138,345.24192)"
+       x1="81.642853"
+       y1="27.125"
+       x2="115.66071"
+       y2="266.00595" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient885"
+       id="linearGradient887"
+       x1="-635.03241"
+       y1="12.625222"
+       x2="-600.8219"
+       y2="86.391617"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient4686"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(37.041666,-43.845238)"
+       x1="243.79465"
+       y1="-139.18452"
+       x2="382.5119"
+       y2="0.2886923" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3858">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0"
+         id="stop3854" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop3856" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3702"
+       id="radialGradient4688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.85618057,69.666561,-50.248455)"
+       cx="242.57153"
+       cy="-136.69131"
+       fx="242.57153"
+       fy="-136.69131"
+       r="10.894425" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3702">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         offset="0"
+         id="stop3698" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop3700" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4375"
+       x="-0.18821672"
+       width="1.3764334"
+       y="-0.21983296"
+       height="1.4396659">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7087607"
+         id="feGaussianBlur4377" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3702"
+       id="radialGradient4690"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.85618057,69.666561,-50.248455)"
+       cx="242.57153"
+       cy="-136.69131"
+       fx="242.57153"
+       fy="-136.69131"
+       r="10.894425" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4539"
+       x="-0.17596592"
+       width="1.3519318"
+       y="-0.20552431"
+       height="1.4110487">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5975396"
+         id="feGaussianBlur4541" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3822"
+       id="radialGradient4692"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.16712718,0.23072997,-0.25660476,-0.18586936,365.15026,-495.36661)"
+       cx="1041.3019"
+       cy="-472.60526"
+       fx="1041.3019"
+       fy="-472.60526"
+       r="102.76561" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3822">
+      <stop
+         style="stop-color:#808080;stop-opacity:1"
+         offset="0"
+         id="stop3818" />
+      <stop
+         id="stop4637"
+         offset="0.16163133"
+         style="stop-color:#808080;stop-opacity:0.83529412;" />
+      <stop
+         style="stop-color:#8b8b8b;stop-opacity:0.75686276"
+         offset="0.24015777"
+         id="stop4643" />
+      <stop
+         style="stop-color:#3c3c3c;stop-opacity:0"
+         offset="1"
+         id="stop3820" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4515"
+       id="radialGradient4694"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(383.79904,-40.090429)"
+       cx="177.53214"
+       cy="74.560059"
+       fx="177.53214"
+       fy="74.560059"
+       r="68.26786" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4515">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4511" />
+      <stop
+         id="stop3536"
+         offset="0.79449725"
+         style="stop-color:#ffffe4;stop-opacity:1" />
+      <stop
+         style="stop-color:#ececec;stop-opacity:1"
+         offset="0.86647385"
+         id="stop3538" />
+      <stop
+         id="stop3534"
+         offset="0.92737722"
+         style="stop-color:#cccccc;stop-opacity:1" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1"
+         offset="1"
+         id="stop4513" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient25736"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(37.041666,-43.845238)"
+       x1="243.79465"
+       y1="-139.18452"
+       x2="382.5119"
+       y2="0.2886923" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3702"
+       id="radialGradient25738"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.85618057,69.666561,-50.248455)"
+       cx="242.57153"
+       cy="-136.69131"
+       fx="242.57153"
+       fy="-136.69131"
+       r="10.894425" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3702"
+       id="radialGradient25740"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.85618057,69.666561,-50.248455)"
+       cx="242.57153"
+       cy="-136.69131"
+       fx="242.57153"
+       fy="-136.69131"
+       r="10.894425" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3822"
+       id="radialGradient25742"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.16712718,0.23072997,-0.25660476,-0.18586936,365.15026,-495.36661)"
+       cx="1041.3019"
+       cy="-472.60526"
+       fx="1041.3019"
+       fy="-472.60526"
+       r="102.76561" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4515"
+       id="radialGradient25744"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(383.79904,-40.090429)"
+       cx="177.53214"
+       cy="74.560059"
+       fx="177.53214"
+       fy="74.560059"
+       r="68.26786" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1008.7214"
+     inkscape:cy="1.6261436"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4703"
+       transform="matrix(1.9285714,0,0,1.9285714,-1004.0256,82.022864)"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\BtnPlay.png"
+       inkscape:export-xdpi="48.165928"
+       inkscape:export-ydpi="48.165928">
+      <g
+         id="g4682"
+         transform="translate(210.87891,147.34777)">
+        <circle
+           style="opacity:1;fill:url(#linearGradient4686);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53429103;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="circle4672"
+           cx="350.45227"
+           cy="-112.87814"
+           inkscape:export-xdpi="93.437744"
+           inkscape:export-ydpi="93.437744"
+           inkscape:export-filename="C:\Users\Blaz\Desktop\BtnArrowRight.png"
+           r="70" />
+        <g
+           transform="translate(1.5874998,1.0583333)"
+           id="g4678">
+          <path
+             style="opacity:1;fill:url(#radialGradient4688);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53429103;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter4375)"
+             d="m 321.23031,-176.6085 a 69.999999,69.999999 0 0 0 -19.88664,13.85859 12.136146,12.136146 0 0 0 9.65264,4.7966 12.136146,12.136146 0 0 0 12.13621,-12.13569 12.136146,12.136146 0 0 0 -1.90221,-6.5195 z"
+             id="path4674"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4676"
+             d="m 321.23031,-176.6085 a 69.999999,69.999999 0 0 0 -19.88664,13.85859 12.136146,12.136146 0 0 0 9.65264,4.7966 12.136146,12.136146 0 0 0 12.13621,-12.13569 12.136146,12.136146 0 0 0 -1.90221,-6.5195 z"
+             style="opacity:1;fill:url(#radialGradient4690);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53429103;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter4539)" />
+        </g>
+        <path
+           id="path4680"
+           d="m 333.79357,-180.79088 a 69.999999,69.999999 0 0 0 -43.83763,32.829 30.521576,23.8125 0 0 0 23.85902,8.96638 30.521576,23.8125 0 0 0 30.52111,-23.8125 30.521576,23.8125 0 0 0 -10.5425,-17.98288 z"
+           style="opacity:0.68300003;fill:url(#radialGradient4692);fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <circle
+         inkscape:export-filename="C:\Users\Blaz\Desktop\BtnArrowRight.png"
+         inkscape:export-ydpi="93.437744"
+         inkscape:export-xdpi="93.437744"
+         r="66.586876"
+         cy="34.469627"
+         cx="561.33118"
+         id="circle4684"
+         style="opacity:1;fill:url(#radialGradient4694);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.3619628;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <circle
+       style="opacity:1;fill:url(#linearGradient4490);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8.91497898;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path4502"
+       cx="-285.82736"
+       cy="-34.440475"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Play3.png"
+       inkscape:export-xdpi="96.331848"
+       inkscape:export-ydpi="96.331848"
+       r="130.54251" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.98969078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 44.461111,50.656418 167.00057,151.67501 44.461111,252.69359 Z"
+       id="path4500"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\BtnPlay.png"
+       inkscape:export-xdpi="48.165928"
+       inkscape:export-ydpi="48.165928" />
+    <path
+       inkscape:export-ydpi="48.165928"
+       inkscape:export-xdpi="48.165928"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\BtnPlay.png"
+       inkscape:connector-curvature="0"
+       id="path4488"
+       d="M 41.286109,44.306414 163.82555,145.32497 41.286109,246.34355 Z"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:5.98969078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="190.50168"
+       inkscape:export-ydpi="66.012024"
+       inkscape:export-xdpi="66.012024"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\PlayBtnMenu2.png"
+       cy="542.72119"
+       cx="-550.07629"
+       id="circle16"
+       style="opacity:1;fill:url(#linearGradient22);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:13.00969696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="96.331848"
+       inkscape:export-xdpi="96.331848"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\PlaySprite.png"
+       inkscape:connector-curvature="0"
+       id="path18"
+       d="M -671.82122,-62.665861 -549.28176,38.352733 -671.82122,139.37131 Z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5.98969078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:url(#linearGradient887);fill-opacity:1;stroke:#1a1a1d;stroke-width:5.98969078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -674.99622,-69.015865 -552.45678,32.002693 -674.99622,133.02127 Z"
+       id="path20"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\PlaySprite.png"
+       inkscape:export-xdpi="96.331848"
+       inkscape:export-ydpi="96.331848" />
+    <g
+       id="g838"
+       transform="translate(-6.6807713,3.9493962)"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\PlayBtnMenu2.png"
+       inkscape:export-xdpi="66.012024"
+       inkscape:export-ydpi="66.012024">
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#1a1a1d;stroke-width:10.00575638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -613.44796,385.07161 221.01199,153.70018 -221.01199,153.70019 z"
+         id="path28"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Blaz\Desktop\PlayBtnMenu.png"
+         inkscape:export-xdpi="79.647789"
+         inkscape:export-ydpi="79.647789" />
+      <text
+         inkscape:export-ydpi="79.647789"
+         inkscape:export-xdpi="79.647789"
+         inkscape:export-filename="C:\Users\Blaz\Desktop\PlayBtnMenu.png"
+         transform="scale(1.0006057,0.99939465)"
+         id="text26"
+         y="560.23779"
+         x="-600.64941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.30853271px;line-height:1.25;font-family:'Stardos Stencil';-inkscape-font-specification:'Stardos Stencil';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35545221"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.30853271px;font-family:'Stardos Stencil';-inkscape-font-specification:'Stardos Stencil';fill:#000000;stroke-width:0.35545221"
+           y="560.23779"
+           x="-600.64941"
+           id="tspan24"
+           sodipodi:role="line">Play</tspan></text>
+    </g>
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:#e1e1e1;stroke-width:10.00575638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -121.93834,463.85648 99.07365,617.55666 -121.93834,771.25685 Z"
+       id="path843"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\PlayBtnMenu3.png"
+       inkscape:export-xdpi="79.650597"
+       inkscape:export-ydpi="79.650597" />
+    <text
+       inkscape:export-ydpi="79.650597"
+       inkscape:export-xdpi="79.650597"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\PlayBtnMenu3.png"
+       transform="scale(1.0006057,0.99939466)"
+       id="text847"
+       y="639.07037"
+       x="-109.43732"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.30853271px;line-height:1.25;font-family:'Stardos Stencil';-inkscape-font-specification:'Stardos Stencil';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35545221"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.30853271px;font-family:'Stardos Stencil';-inkscape-font-specification:'Stardos Stencil';fill:#000000;stroke-width:0.35545221"
+         y="639.07037"
+         x="-109.43732"
+         id="tspan845"
+         sodipodi:role="line">Play</tspan></text>
+    <g
+       transform="matrix(1.9285714,0,0,1.9285714,-634.12457,79.884708)"
+       id="g25730">
+      <g
+         transform="translate(210.87891,147.34777)"
+         id="g25726">
+        <circle
+           r="70"
+           inkscape:export-filename="C:\Users\Blaz\Desktop\BtnArrowRight.png"
+           inkscape:export-ydpi="93.437744"
+           inkscape:export-xdpi="93.437744"
+           cy="-112.87814"
+           cx="350.45227"
+           id="circle25716"
+           style="opacity:1;fill:url(#linearGradient25736);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53429103;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <g
+           id="g25722"
+           transform="translate(1.5874998,1.0583333)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path25718"
+             d="m 321.23031,-176.6085 a 69.999999,69.999999 0 0 0 -19.88664,13.85859 12.136146,12.136146 0 0 0 9.65264,4.7966 12.136146,12.136146 0 0 0 12.13621,-12.13569 12.136146,12.136146 0 0 0 -1.90221,-6.5195 z"
+             style="opacity:1;fill:url(#radialGradient25738);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53429103;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter4375)" />
+          <path
+             style="opacity:1;fill:url(#radialGradient25740);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53429103;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter4539)"
+             d="m 321.23031,-176.6085 a 69.999999,69.999999 0 0 0 -19.88664,13.85859 12.136146,12.136146 0 0 0 9.65264,4.7966 12.136146,12.136146 0 0 0 12.13621,-12.13569 12.136146,12.136146 0 0 0 -1.90221,-6.5195 z"
+             id="path25720"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.68300003;fill:url(#radialGradient25742);fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 333.79357,-180.79088 a 69.999999,69.999999 0 0 0 -43.83763,32.829 30.521576,23.8125 0 0 0 23.85902,8.96638 30.521576,23.8125 0 0 0 30.52111,-23.8125 30.521576,23.8125 0 0 0 -10.5425,-17.98288 z"
+           id="path25724" />
+      </g>
+      <circle
+         style="opacity:1;fill:url(#radialGradient25744);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.3619628;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle25728"
+         cx="561.33118"
+         cy="34.469627"
+         r="66.586876"
+         inkscape:export-xdpi="93.437744"
+         inkscape:export-ydpi="93.437744"
+         inkscape:export-filename="C:\Users\Blaz\Desktop\BtnArrowRight.png" />
+    </g>
+    <path
+       inkscape:export-ydpi="96.331848"
+       inkscape:export-xdpi="96.331848"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Play3.png"
+       inkscape:connector-curvature="0"
+       id="path25732"
+       d="M 414.36214,48.518262 536.9016,149.53685 414.36214,250.55543 Z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.98969078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.98969078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 411.18713,42.168258 533.72658,143.18681 411.18713,244.20539 Z"
+       id="path25734"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Blaz\Desktop\Play3.png"
+       inkscape:export-xdpi="96.331848"
+       inkscape:export-ydpi="96.331848" />
+  </g>
+</svg>
